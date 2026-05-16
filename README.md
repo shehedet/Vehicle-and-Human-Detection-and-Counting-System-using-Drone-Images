@@ -16,8 +16,6 @@ This project fine-tunes a YOLOv8s model on the VisDrone2019 detection dataset to
 
 ## Dataset
 
-**VisDrone2019-DET** — drone-captured imagery with 10 object classes.
-
 Kaggle dataset: https://www.kaggle.com/datasets/banuprasadb/visdrone-dataset
 
 **Dataset stats:**
