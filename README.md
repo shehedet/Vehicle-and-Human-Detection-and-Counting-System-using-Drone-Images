@@ -1,4 +1,4 @@
-# Drone Human Detection & Counting — YOLOv8s on VisDrone
+# Vehicles and Human Detection & Counting using YOLOv8s trained on Drone Images
 
 A computer vision pipeline for detecting humans and cars in drone/aerial images, built on the VisDrone2019 dataset. Includes detection, human counting, and object tracking.
 
@@ -18,7 +18,7 @@ This project fine-tunes a YOLOv8s model on the VisDrone2019 detection dataset to
 
 **VisDrone2019-DET** — drone-captured imagery with 10 object classes.
 
-Download from Kaggle: https://www.kaggle.com/datasets/banuprasadb/visdrone-dataset
+Kaggle dataset: https://www.kaggle.com/datasets/banuprasadb/visdrone-dataset
 
 After downloading, place the dataset in the project root:
 
